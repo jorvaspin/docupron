@@ -1,0 +1,1183 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/es/docs",
+          "tagsPath": "/es/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/es/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/mimac/Sites/awebsite/sidebars.js",
+          "contentPath": "/Users/mimac/Sites/awebsite/docs",
+          "contentPathLocalized": "/Users/mimac/Sites/awebsite/i18n/es/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "countrieSpecifications/paises_y_monedas",
+              "id": "countrieSpecifications/paises_y_monedas",
+              "title": "Paises y Monedas",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/countrieSpecifications/countriesAndCurrencies.md",
+              "sourceDirName": "countrieSpecifications",
+              "slug": "/countrieSpecifications/paises_y_monedas",
+              "permalink": "/es/docs/countrieSpecifications/paises_y_monedas",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/countrieSpecifications/countriesAndCurrencies.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 1,
+                "title": "Paises y Monedas",
+                "id": "paises_y_monedas"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Country Specifications",
+                "permalink": "/es/docs/category/country-specifications"
+              },
+              "next": {
+                "title": "Test Cards",
+                "permalink": "/es/docs/category/test-cards"
+              }
+            },
+            {
+              "unversionedId": "deposits/confirmationPayment",
+              "id": "deposits/confirmationPayment",
+              "title": "Confirmación de un Pago",
+              "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/deposits/confirmationPayment.md",
+              "sourceDirName": "deposits",
+              "slug": "/deposits/confirmationPayment",
+              "permalink": "/es/docs/deposits/confirmationPayment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/confirmationPayment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+                "sidebar_position": 2,
+                "title": "Confirmación de un Pago",
+                "label": "confirmacion_de_un_pago"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Como Crear un Pago",
+                "permalink": "/es/docs/deposits/createPayment"
+              },
+              "next": {
+                "title": "Detalles de un Pago",
+                "permalink": "/es/docs/deposits/detailsPayment"
+              }
+            },
+            {
+              "unversionedId": "deposits/createPayment",
+              "id": "deposits/createPayment",
+              "title": "Como Crear un Pago",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/deposits/createPayment.md",
+              "sourceDirName": "deposits",
+              "slug": "/deposits/createPayment",
+              "permalink": "/es/docs/deposits/createPayment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/createPayment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 1,
+                "title": "Como Crear un Pago",
+                "label": "como_crear_un_pago"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deposits",
+                "permalink": "/es/docs/category/deposits"
+              },
+              "next": {
+                "title": "Confirmación de un Pago",
+                "permalink": "/es/docs/deposits/confirmationPayment"
+              }
+            },
+            {
+              "unversionedId": "deposits/detailsPayment",
+              "id": "deposits/detailsPayment",
+              "title": "Detalles de un Pago",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/deposits/detailsPayment.md",
+              "sourceDirName": "deposits",
+              "slug": "/deposits/detailsPayment",
+              "permalink": "/es/docs/deposits/detailsPayment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/detailsPayment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 3,
+                "title": "Detalles de un Pago",
+                "label": "detalles_de_un_pago"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Confirmación de un Pago",
+                "permalink": "/es/docs/deposits/confirmationPayment"
+              },
+              "next": {
+                "title": "Tipos de Estados",
+                "permalink": "/es/docs/deposits/typesOfStatus"
+              }
+            },
+            {
+              "unversionedId": "deposits/typesOfStatus",
+              "id": "deposits/typesOfStatus",
+              "title": "Tipos de Estados",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/deposits/typesOfStatus.md",
+              "sourceDirName": "deposits",
+              "slug": "/deposits/typesOfStatus",
+              "permalink": "/es/docs/deposits/typesOfStatus",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/typesOfStatus.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 4,
+                "title": "Tipos de Estados",
+                "label": "tipos_de_estados"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Detalles de un Pago",
+                "permalink": "/es/docs/deposits/detailsPayment"
+              },
+              "next": {
+                "title": "Tipos de rechazo",
+                "permalink": "/es/docs/deposits/typesRejectPayment"
+              }
+            },
+            {
+              "unversionedId": "deposits/typesRejectPayment",
+              "id": "deposits/typesRejectPayment",
+              "title": "Tipos de rechazo",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/deposits/typesRejectPayment.md",
+              "sourceDirName": "deposits",
+              "slug": "/deposits/typesRejectPayment",
+              "permalink": "/es/docs/deposits/typesRejectPayment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/typesRejectPayment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 5,
+                "title": "Tipos de rechazo",
+                "label": "tipos_de_rechazos"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tipos de Estados",
+                "permalink": "/es/docs/deposits/typesOfStatus"
+              },
+              "next": {
+                "title": "Withdrawals",
+                "permalink": "/es/docs/category/withdrawals"
+              }
+            },
+            {
+              "unversionedId": "documentation/balance",
+              "id": "documentation/balance",
+              "title": "Balance",
+              "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/balance.md",
+              "sourceDirName": "documentation",
+              "slug": "/documentation/balance",
+              "permalink": "/es/docs/documentation/balance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/balance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Estado del Sitio",
+                "permalink": "/es/docs/documentation/statusSite"
+              },
+              "next": {
+                "title": "Transacciones Día Anterior",
+                "permalink": "/es/docs/documentation/previousDay"
+              }
+            },
+            {
+              "unversionedId": "documentation/knowapi",
+              "id": "documentation/knowapi",
+              "title": "Conoce Nuestra API",
+              "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/knowapi.md",
+              "sourceDirName": "documentation",
+              "slug": "/documentation/knowapi",
+              "permalink": "/es/docs/documentation/knowapi",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/knowapi.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+                "sidebar_position": 1,
+                "title": "Conoce Nuestra API"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Documentation",
+                "permalink": "/es/docs/category/documentation"
+              },
+              "next": {
+                "title": "Métodos de Pago",
+                "permalink": "/es/docs/documentation/paymentMethods"
+              }
+            },
+            {
+              "unversionedId": "documentation/paymentConsult",
+              "id": "documentation/paymentConsult",
+              "title": "Consulta de Pagos",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/paymentConsult.md",
+              "sourceDirName": "documentation",
+              "slug": "/documentation/paymentConsult",
+              "permalink": "/es/docs/documentation/paymentConsult",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/paymentConsult.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 8,
+                "title": "Consulta de Pagos",
+                "label": "consulta_pagos"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Transacciones Día Anterior",
+                "permalink": "/es/docs/documentation/previousDay"
+              },
+              "next": {
+                "title": "Consulta de Retiros",
+                "permalink": "/es/docs/documentation/withdrawalConsult"
+              }
+            },
+            {
+              "unversionedId": "documentation/paymentMethods",
+              "id": "documentation/paymentMethods",
+              "title": "Métodos de Pago",
+              "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/paymentMethods.md",
+              "sourceDirName": "documentation",
+              "slug": "/documentation/paymentMethods",
+              "permalink": "/es/docs/documentation/paymentMethods",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/paymentMethods.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+                "sidebar_position": 2,
+                "title": "Métodos de Pago",
+                "label": "metodos_pago"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conoce Nuestra API",
+                "permalink": "/es/docs/documentation/knowapi"
+              },
+              "next": {
+                "title": "Estado del Sitio",
+                "permalink": "/es/docs/documentation/statusSite"
+              }
+            },
+            {
+              "unversionedId": "documentation/previousDay",
+              "id": "documentation/previousDay",
+              "title": "Transacciones Día Anterior",
+              "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/previousDay.md",
+              "sourceDirName": "documentation",
+              "slug": "/documentation/previousDay",
+              "permalink": "/es/docs/documentation/previousDay",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/previousDay.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+                "sidebar_position": 7,
+                "title": "Transacciones Día Anterior",
+                "label": "transacciones_dia_anterior"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Balance",
+                "permalink": "/es/docs/documentation/balance"
+              },
+              "next": {
+                "title": "Consulta de Pagos",
+                "permalink": "/es/docs/documentation/paymentConsult"
+              }
+            },
+            {
+              "unversionedId": "documentation/statusSite",
+              "id": "documentation/statusSite",
+              "title": "Estado del Sitio",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/statusSite.md",
+              "sourceDirName": "documentation",
+              "slug": "/documentation/statusSite",
+              "permalink": "/es/docs/documentation/statusSite",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/statusSite.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 3,
+                "title": "Estado del Sitio",
+                "label": "estado_del_sitio"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Métodos de Pago",
+                "permalink": "/es/docs/documentation/paymentMethods"
+              },
+              "next": {
+                "title": "Balance",
+                "permalink": "/es/docs/documentation/balance"
+              }
+            },
+            {
+              "unversionedId": "documentation/withdrawalConsult",
+              "id": "documentation/withdrawalConsult",
+              "title": "Consulta de Retiros",
+              "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/withdrawalConsult.md",
+              "sourceDirName": "documentation",
+              "slug": "/documentation/withdrawalConsult",
+              "permalink": "/es/docs/documentation/withdrawalConsult",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/withdrawalConsult.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+                "sidebar_position": 9,
+                "title": "Consulta de Retiros",
+                "label": "consulta_retiros"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Consulta de Pagos",
+                "permalink": "/es/docs/documentation/paymentConsult"
+              },
+              "next": {
+                "title": "Deposits",
+                "permalink": "/es/docs/category/deposits"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Bienvenido",
+              "description": "¡Aquí encontrarás toda la documentación que necesitas para empezar a usar nuestra API de forma muy sencilla!",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/es/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Bienvenido"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Documentation",
+                "permalink": "/es/docs/category/documentation"
+              }
+            },
+            {
+              "unversionedId": "paymentImageMethods/imageBanks",
+              "id": "paymentImageMethods/imageBanks",
+              "title": "Imagenes Métodos de Pago",
+              "description": "Te facilitamos las imagenes de todos nuestros métodos de pago para que puedas utilizar..",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/paymentImageMethods/imageBanks.md",
+              "sourceDirName": "paymentImageMethods",
+              "slug": "/paymentImageMethods/imageBanks",
+              "permalink": "/es/docs/paymentImageMethods/imageBanks",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/paymentImageMethods/imageBanks.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Te facilitamos las imagenes de todos nuestros métodos de pago para que puedas utilizar..",
+                "sidebar_position": 1,
+                "title": "Imagenes Métodos de Pago",
+                "label": "imagenes_de_bancos"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Images Payment Methods",
+                "permalink": "/es/docs/category/images-payment-methods"
+              }
+            },
+            {
+              "unversionedId": "testCards/webpay",
+              "id": "testCards/webpay",
+              "title": "Webpay",
+              "description": "Here you will know the test cards for WebPay (Chile).",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/testCards/webpay.md",
+              "sourceDirName": "testCards",
+              "slug": "/testCards/webpay",
+              "permalink": "/es/docs/testCards/webpay",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/testCards/webpay.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Here you will know the test cards for WebPay (Chile).",
+                "sidebar_position": 1,
+                "title": "Webpay",
+                "label": "webpay"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test Cards",
+                "permalink": "/es/docs/category/test-cards"
+              },
+              "next": {
+                "title": "Images Payment Methods",
+                "permalink": "/es/docs/category/images-payment-methods"
+              }
+            },
+            {
+              "unversionedId": "withdrawals/canceledWithdrawals",
+              "id": "withdrawals/canceledWithdrawals",
+              "title": "Estado de Retiros Cancelados",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/withdrawals/canceledWithdrawals.md",
+              "sourceDirName": "withdrawals",
+              "slug": "/withdrawals/canceledWithdrawals",
+              "permalink": "/es/docs/withdrawals/canceledWithdrawals",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/canceledWithdrawals.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 5,
+                "title": "Estado de Retiros Cancelados",
+                "label": "estados_de_retiro_cancelado"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Estado de Retiro",
+                "permalink": "/es/docs/withdrawals/statusWithdrawal"
+              },
+              "next": {
+                "title": "Country Specifications",
+                "permalink": "/es/docs/category/country-specifications"
+              }
+            },
+            {
+              "unversionedId": "withdrawals/confirmationWithdrawal",
+              "id": "withdrawals/confirmationWithdrawal",
+              "title": "Confirmación de un Retiro",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/withdrawals/confirmationWithdrawal.md",
+              "sourceDirName": "withdrawals",
+              "slug": "/withdrawals/confirmationWithdrawal",
+              "permalink": "/es/docs/withdrawals/confirmationWithdrawal",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/confirmationWithdrawal.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 2,
+                "title": "Confirmación de un Retiro",
+                "label": "confirmacion_de_un_retiro"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Como crear un Retiro",
+                "permalink": "/es/docs/withdrawals/createWithdrawals"
+              },
+              "next": {
+                "title": "Detalles de un Retiro",
+                "permalink": "/es/docs/withdrawals/detailsWithdrawal"
+              }
+            },
+            {
+              "unversionedId": "withdrawals/createWithdrawals",
+              "id": "withdrawals/createWithdrawals",
+              "title": "Como crear un Retiro",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/withdrawals/createWithdrawals.md",
+              "sourceDirName": "withdrawals",
+              "slug": "/withdrawals/createWithdrawals",
+              "permalink": "/es/docs/withdrawals/createWithdrawals",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/createWithdrawals.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 1,
+                "title": "Como crear un Retiro",
+                "label": "como_crear_un_retiro"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Withdrawals",
+                "permalink": "/es/docs/category/withdrawals"
+              },
+              "next": {
+                "title": "Confirmación de un Retiro",
+                "permalink": "/es/docs/withdrawals/confirmationWithdrawal"
+              }
+            },
+            {
+              "unversionedId": "withdrawals/detailsWithdrawal",
+              "id": "withdrawals/detailsWithdrawal",
+              "title": "Detalles de un Retiro",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/withdrawals/detailsWithdrawal.md",
+              "sourceDirName": "withdrawals",
+              "slug": "/withdrawals/detailsWithdrawal",
+              "permalink": "/es/docs/withdrawals/detailsWithdrawal",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/detailsWithdrawal.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 3,
+                "title": "Detalles de un Retiro",
+                "label": "detalles_de_un_retiro"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Confirmación de un Retiro",
+                "permalink": "/es/docs/withdrawals/confirmationWithdrawal"
+              },
+              "next": {
+                "title": "Estado de Retiro",
+                "permalink": "/es/docs/withdrawals/statusWithdrawal"
+              }
+            },
+            {
+              "unversionedId": "withdrawals/statusWithdrawal",
+              "id": "withdrawals/statusWithdrawal",
+              "title": "Estado de Retiro",
+              "description": "Learn to integrate our services, easy and fast.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/withdrawals/statusWithdrawal.md",
+              "sourceDirName": "withdrawals",
+              "slug": "/withdrawals/statusWithdrawal",
+              "permalink": "/es/docs/withdrawals/statusWithdrawal",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/statusWithdrawal.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "description": "Learn to integrate our services, easy and fast.",
+                "sidebar_position": 4,
+                "title": "Estado de Retiro",
+                "label": "estado_del_retiro"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Detalles de un Retiro",
+                "permalink": "/es/docs/withdrawals/detailsWithdrawal"
+              },
+              "next": {
+                "title": "Estado de Retiros Cancelados",
+                "permalink": "/es/docs/withdrawals/canceledWithdrawals"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Documentation",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "documentation/knowapi"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "documentation/paymentMethods"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "documentation/statusSite"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "documentation/balance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "documentation/previousDay"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "documentation/paymentConsult"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "documentation/withdrawalConsult"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Know all the points you will see.",
+                  "slug": "/category/documentation",
+                  "permalink": "/es/docs/category/documentation"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Deposits",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "deposits/createPayment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deposits/confirmationPayment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deposits/detailsPayment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deposits/typesOfStatus"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deposits/typesRejectPayment"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Know all the points you will see.",
+                  "slug": "/category/deposits",
+                  "permalink": "/es/docs/category/deposits"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Withdrawals",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "withdrawals/createWithdrawals"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "withdrawals/confirmationWithdrawal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "withdrawals/detailsWithdrawal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "withdrawals/statusWithdrawal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "withdrawals/canceledWithdrawals"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Know all the points you will see.",
+                  "slug": "/category/withdrawals",
+                  "permalink": "/es/docs/category/withdrawals"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Country Specifications",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "countrieSpecifications/paises_y_monedas"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Know all the points you will see.",
+                  "slug": "/category/country-specifications",
+                  "permalink": "/es/docs/category/country-specifications"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Test Cards",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "testCards/webpay"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Know all the points you will see.",
+                  "slug": "/category/test-cards",
+                  "permalink": "/es/docs/category/test-cards"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Images Payment Methods",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "paymentImageMethods/imageBanks"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "We provide you with images of all our payment methods so that you can use.",
+                  "slug": "/category/images-payment-methods",
+                  "permalink": "/es/docs/category/images-payment-methods"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/es/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "26 de agosto de 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/es/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/es/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/es/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/es/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/es/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "1 de agosto de 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/es/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/es/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/es/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/es/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "29 de mayo de 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/es/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/es/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/es/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/es/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/es/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "28 de mayo de 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/es/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/es/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/es/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/es/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/es/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/es/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/es/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/es/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/es/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/es/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/es/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/es/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/es/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/es/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/es/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/es/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/es/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/es/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/es/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

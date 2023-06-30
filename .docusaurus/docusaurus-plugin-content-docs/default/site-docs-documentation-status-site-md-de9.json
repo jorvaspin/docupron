@@ -1,0 +1,30 @@
+{
+  "unversionedId": "documentation/statusSite",
+  "id": "documentation/statusSite",
+  "title": "Status Site",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/documentation/statusSite.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/statusSite",
+  "permalink": "/docs/documentation/statusSite",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/statusSite.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 3,
+    "title": "Status Site",
+    "label": "estado_del_sitio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Methods of payment",
+    "permalink": "/docs/documentation/paymentMethods"
+  },
+  "next": {
+    "title": "Balance",
+    "permalink": "/docs/documentation/balance"
+  }
+}

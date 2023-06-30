@@ -1,0 +1,30 @@
+{
+  "unversionedId": "deposits/detailsPayment",
+  "id": "deposits/detailsPayment",
+  "title": "Payment details",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/deposits/detailsPayment.md",
+  "sourceDirName": "deposits",
+  "slug": "/deposits/detailsPayment",
+  "permalink": "/docs/deposits/detailsPayment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/detailsPayment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 3,
+    "title": "Payment details",
+    "label": "detalles_de_un_pago"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payment confirmation",
+    "permalink": "/docs/deposits/confirmationPayment"
+  },
+  "next": {
+    "title": "Types of status",
+    "permalink": "/docs/deposits/typesOfStatus"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Withdrawals",
+  "description": "Know all the points you will see.",
+  "slug": "/category/withdrawals",
+  "permalink": "/es/docs/category/withdrawals",
+  "navigation": {
+    "previous": {
+      "title": "Tipos de rechazo",
+      "permalink": "/es/docs/deposits/typesRejectPayment"
+    },
+    "next": {
+      "title": "Como crear un Retiro",
+      "permalink": "/es/docs/withdrawals/createWithdrawals"
+    }
+  }
+}

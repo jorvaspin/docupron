@@ -1,0 +1,16 @@
+{
+  "title": "Country Specifications",
+  "description": "Know all the points you will see.",
+  "slug": "/category/country-specifications",
+  "permalink": "/docs/category/country-specifications",
+  "navigation": {
+    "previous": {
+      "title": "Canceled Withdrawals",
+      "permalink": "/docs/withdrawals/canceledWithdrawals"
+    },
+    "next": {
+      "title": "Countries and currencies",
+      "permalink": "/docs/countrieSpecifications/paises_y_monedas"
+    }
+  }
+}

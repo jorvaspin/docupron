@@ -1,0 +1,30 @@
+{
+  "unversionedId": "withdrawals/detailsWithdrawal",
+  "id": "withdrawals/detailsWithdrawal",
+  "title": "Withdrawal details",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/withdrawals/detailsWithdrawal.md",
+  "sourceDirName": "withdrawals",
+  "slug": "/withdrawals/detailsWithdrawal",
+  "permalink": "/docs/withdrawals/detailsWithdrawal",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/detailsWithdrawal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 3,
+    "title": "Withdrawal details",
+    "label": "detalles_de_un_retiro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Confirmation of withdrawal",
+    "permalink": "/docs/withdrawals/confirmationWithdrawal"
+  },
+  "next": {
+    "title": "Withdrawal status",
+    "permalink": "/docs/withdrawals/statusWithdrawal"
+  }
+}

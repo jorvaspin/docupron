@@ -1,0 +1,30 @@
+{
+  "unversionedId": "deposits/typesRejectPayment",
+  "id": "deposits/typesRejectPayment",
+  "title": "Types Payments rejected",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/deposits/typesRejectPayment.md",
+  "sourceDirName": "deposits",
+  "slug": "/deposits/typesRejectPayment",
+  "permalink": "/docs/deposits/typesRejectPayment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/typesRejectPayment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 5,
+    "title": "Types Payments rejected",
+    "label": "tipos_de_rechazos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Types of status",
+    "permalink": "/docs/deposits/typesOfStatus"
+  },
+  "next": {
+    "title": "Withdrawals",
+    "permalink": "/docs/category/withdrawals"
+  }
+}

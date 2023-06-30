@@ -1,0 +1,20 @@
+{
+  "unversionedId": "countrieSpecifications",
+  "id": "countrieSpecifications",
+  "title": "countrieSpecifications",
+  "description": "",
+  "source": "@site/docs/countrieSpecifications.md",
+  "sourceDirName": ".",
+  "slug": "/countrieSpecifications",
+  "permalink": "/docs/countrieSpecifications",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/countrieSpecifications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Canceled Withdrawals",
+    "permalink": "/docs/withdrawals/canceledWithdrawals"
+  }
+}

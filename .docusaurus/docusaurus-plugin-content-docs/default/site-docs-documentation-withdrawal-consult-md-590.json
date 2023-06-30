@@ -1,0 +1,30 @@
+{
+  "unversionedId": "documentation/withdrawalConsult",
+  "id": "documentation/withdrawalConsult",
+  "title": "Withdrawal Consults",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/documentation/withdrawalConsult.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/withdrawalConsult",
+  "permalink": "/docs/documentation/withdrawalConsult",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/withdrawalConsult.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 9,
+    "title": "Withdrawal Consults",
+    "label": "consulta_retiros"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payment Consults",
+    "permalink": "/docs/documentation/paymentConsult"
+  },
+  "next": {
+    "title": "Deposits",
+    "permalink": "/docs/category/deposits"
+  }
+}

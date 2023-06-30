@@ -1,0 +1,30 @@
+{
+  "unversionedId": "countrieSpecifications/paises_y_monedas",
+  "id": "countrieSpecifications/paises_y_monedas",
+  "title": "Countries and currencies",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/countrieSpecifications/countriesAndCurrencies.md",
+  "sourceDirName": "countrieSpecifications",
+  "slug": "/countrieSpecifications/paises_y_monedas",
+  "permalink": "/docs/countrieSpecifications/paises_y_monedas",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/countrieSpecifications/countriesAndCurrencies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 1,
+    "title": "Countries and currencies",
+    "id": "paises_y_monedas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Country Specifications",
+    "permalink": "/docs/category/country-specifications"
+  },
+  "next": {
+    "title": "Test Cards",
+    "permalink": "/docs/category/test-cards"
+  }
+}

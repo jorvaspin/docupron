@@ -1,0 +1,16 @@
+{
+  "title": "Test Cards",
+  "description": "Know all the points you will see.",
+  "slug": "/category/test-cards",
+  "permalink": "/docs/category/test-cards",
+  "navigation": {
+    "previous": {
+      "title": "Countries and currencies",
+      "permalink": "/docs/countrieSpecifications/paises_y_monedas"
+    },
+    "next": {
+      "title": "Webpay",
+      "permalink": "/docs/testCards/webpay"
+    }
+  }
+}

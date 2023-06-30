@@ -1,0 +1,26 @@
+{
+  "unversionedId": "paymentImageMethods/imageBanks",
+  "id": "paymentImageMethods/imageBanks",
+  "title": "images of banks",
+  "description": "Here you will find all the services associated with our platform.",
+  "source": "@site/docs/paymentImageMethods/imageBanks.md",
+  "sourceDirName": "paymentImageMethods",
+  "slug": "/paymentImageMethods/imageBanks",
+  "permalink": "/docs/paymentImageMethods/imageBanks",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/paymentImageMethods/imageBanks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Here you will find all the services associated with our platform.",
+    "sidebar_position": 1,
+    "title": "images of banks",
+    "label": "imagenes_de_bancos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Images Payment Methods",
+    "permalink": "/docs/category/images-payment-methods"
+  }
+}

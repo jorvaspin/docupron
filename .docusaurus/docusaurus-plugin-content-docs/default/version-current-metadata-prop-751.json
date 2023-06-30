@@ -1,0 +1,322 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Bienvenido",
+        "href": "/es/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Documentation",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Conoce Nuestra API",
+            "href": "/es/docs/documentation/knowapi",
+            "docId": "documentation/knowapi"
+          },
+          {
+            "type": "link",
+            "label": "Métodos de Pago",
+            "href": "/es/docs/documentation/paymentMethods",
+            "docId": "documentation/paymentMethods"
+          },
+          {
+            "type": "link",
+            "label": "Estado del Sitio",
+            "href": "/es/docs/documentation/statusSite",
+            "docId": "documentation/statusSite"
+          },
+          {
+            "type": "link",
+            "label": "Balance",
+            "href": "/es/docs/documentation/balance",
+            "docId": "documentation/balance"
+          },
+          {
+            "type": "link",
+            "label": "Transacciones Día Anterior",
+            "href": "/es/docs/documentation/previousDay",
+            "docId": "documentation/previousDay"
+          },
+          {
+            "type": "link",
+            "label": "Consulta de Pagos",
+            "href": "/es/docs/documentation/paymentConsult",
+            "docId": "documentation/paymentConsult"
+          },
+          {
+            "type": "link",
+            "label": "Consulta de Retiros",
+            "href": "/es/docs/documentation/withdrawalConsult",
+            "docId": "documentation/withdrawalConsult"
+          }
+        ],
+        "href": "/es/docs/category/documentation"
+      },
+      {
+        "type": "category",
+        "label": "Deposits",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Como Crear un Pago",
+            "href": "/es/docs/deposits/createPayment",
+            "docId": "deposits/createPayment"
+          },
+          {
+            "type": "link",
+            "label": "Confirmación de un Pago",
+            "href": "/es/docs/deposits/confirmationPayment",
+            "docId": "deposits/confirmationPayment"
+          },
+          {
+            "type": "link",
+            "label": "Detalles de un Pago",
+            "href": "/es/docs/deposits/detailsPayment",
+            "docId": "deposits/detailsPayment"
+          },
+          {
+            "type": "link",
+            "label": "Tipos de Estados",
+            "href": "/es/docs/deposits/typesOfStatus",
+            "docId": "deposits/typesOfStatus"
+          },
+          {
+            "type": "link",
+            "label": "Tipos de rechazo",
+            "href": "/es/docs/deposits/typesRejectPayment",
+            "docId": "deposits/typesRejectPayment"
+          }
+        ],
+        "href": "/es/docs/category/deposits"
+      },
+      {
+        "type": "category",
+        "label": "Withdrawals",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Como crear un Retiro",
+            "href": "/es/docs/withdrawals/createWithdrawals",
+            "docId": "withdrawals/createWithdrawals"
+          },
+          {
+            "type": "link",
+            "label": "Confirmación de un Retiro",
+            "href": "/es/docs/withdrawals/confirmationWithdrawal",
+            "docId": "withdrawals/confirmationWithdrawal"
+          },
+          {
+            "type": "link",
+            "label": "Detalles de un Retiro",
+            "href": "/es/docs/withdrawals/detailsWithdrawal",
+            "docId": "withdrawals/detailsWithdrawal"
+          },
+          {
+            "type": "link",
+            "label": "Estado de Retiro",
+            "href": "/es/docs/withdrawals/statusWithdrawal",
+            "docId": "withdrawals/statusWithdrawal"
+          },
+          {
+            "type": "link",
+            "label": "Estado de Retiros Cancelados",
+            "href": "/es/docs/withdrawals/canceledWithdrawals",
+            "docId": "withdrawals/canceledWithdrawals"
+          }
+        ],
+        "href": "/es/docs/category/withdrawals"
+      },
+      {
+        "type": "category",
+        "label": "Country Specifications",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Paises y Monedas",
+            "href": "/es/docs/countrieSpecifications/paises_y_monedas",
+            "docId": "countrieSpecifications/paises_y_monedas"
+          }
+        ],
+        "href": "/es/docs/category/country-specifications"
+      },
+      {
+        "type": "category",
+        "label": "Test Cards",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Webpay",
+            "href": "/es/docs/testCards/webpay",
+            "docId": "testCards/webpay"
+          }
+        ],
+        "href": "/es/docs/category/test-cards"
+      },
+      {
+        "type": "category",
+        "label": "Images Payment Methods",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Imagenes Métodos de Pago",
+            "href": "/es/docs/paymentImageMethods/imageBanks",
+            "docId": "paymentImageMethods/imageBanks"
+          }
+        ],
+        "href": "/es/docs/category/images-payment-methods"
+      }
+    ]
+  },
+  "docs": {
+    "countrieSpecifications/paises_y_monedas": {
+      "id": "countrieSpecifications/paises_y_monedas",
+      "title": "Paises y Monedas",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deposits/confirmationPayment": {
+      "id": "deposits/confirmationPayment",
+      "title": "Confirmación de un Pago",
+      "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deposits/createPayment": {
+      "id": "deposits/createPayment",
+      "title": "Como Crear un Pago",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deposits/detailsPayment": {
+      "id": "deposits/detailsPayment",
+      "title": "Detalles de un Pago",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deposits/typesOfStatus": {
+      "id": "deposits/typesOfStatus",
+      "title": "Tipos de Estados",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "deposits/typesRejectPayment": {
+      "id": "deposits/typesRejectPayment",
+      "title": "Tipos de rechazo",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentation/balance": {
+      "id": "documentation/balance",
+      "title": "Balance",
+      "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentation/knowapi": {
+      "id": "documentation/knowapi",
+      "title": "Conoce Nuestra API",
+      "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentation/paymentConsult": {
+      "id": "documentation/paymentConsult",
+      "title": "Consulta de Pagos",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentation/paymentMethods": {
+      "id": "documentation/paymentMethods",
+      "title": "Métodos de Pago",
+      "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentation/previousDay": {
+      "id": "documentation/previousDay",
+      "title": "Transacciones Día Anterior",
+      "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentation/statusSite": {
+      "id": "documentation/statusSite",
+      "title": "Estado del Sitio",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentation/withdrawalConsult": {
+      "id": "documentation/withdrawalConsult",
+      "title": "Consulta de Retiros",
+      "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Bienvenido",
+      "description": "¡Aquí encontrarás toda la documentación que necesitas para empezar a usar nuestra API de forma muy sencilla!",
+      "sidebar": "tutorialSidebar"
+    },
+    "paymentImageMethods/imageBanks": {
+      "id": "paymentImageMethods/imageBanks",
+      "title": "Imagenes Métodos de Pago",
+      "description": "Te facilitamos las imagenes de todos nuestros métodos de pago para que puedas utilizar..",
+      "sidebar": "tutorialSidebar"
+    },
+    "testCards/webpay": {
+      "id": "testCards/webpay",
+      "title": "Webpay",
+      "description": "Here you will know the test cards for WebPay (Chile).",
+      "sidebar": "tutorialSidebar"
+    },
+    "withdrawals/canceledWithdrawals": {
+      "id": "withdrawals/canceledWithdrawals",
+      "title": "Estado de Retiros Cancelados",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "withdrawals/confirmationWithdrawal": {
+      "id": "withdrawals/confirmationWithdrawal",
+      "title": "Confirmación de un Retiro",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "withdrawals/createWithdrawals": {
+      "id": "withdrawals/createWithdrawals",
+      "title": "Como crear un Retiro",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "withdrawals/detailsWithdrawal": {
+      "id": "withdrawals/detailsWithdrawal",
+      "title": "Detalles de un Retiro",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    },
+    "withdrawals/statusWithdrawal": {
+      "id": "withdrawals/statusWithdrawal",
+      "title": "Estado de Retiro",
+      "description": "Learn to integrate our services, easy and fast.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

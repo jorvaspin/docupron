@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Bienvenido",
+  "description": "¡Aquí encontrarás toda la documentación que necesitas para empezar a usar nuestra API de forma muy sencilla!",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/es/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Bienvenido"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Documentation",
+    "permalink": "/es/docs/category/documentation"
+  }
+}

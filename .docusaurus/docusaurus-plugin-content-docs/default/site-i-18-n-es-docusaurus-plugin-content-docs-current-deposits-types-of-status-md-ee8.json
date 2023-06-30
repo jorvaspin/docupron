@@ -1,0 +1,30 @@
+{
+  "unversionedId": "deposits/typesOfStatus",
+  "id": "deposits/typesOfStatus",
+  "title": "Tipos de Estados",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/deposits/typesOfStatus.md",
+  "sourceDirName": "deposits",
+  "slug": "/deposits/typesOfStatus",
+  "permalink": "/es/docs/deposits/typesOfStatus",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/typesOfStatus.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 4,
+    "title": "Tipos de Estados",
+    "label": "tipos_de_estados"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detalles de un Pago",
+    "permalink": "/es/docs/deposits/detailsPayment"
+  },
+  "next": {
+    "title": "Tipos de rechazo",
+    "permalink": "/es/docs/deposits/typesRejectPayment"
+  }
+}

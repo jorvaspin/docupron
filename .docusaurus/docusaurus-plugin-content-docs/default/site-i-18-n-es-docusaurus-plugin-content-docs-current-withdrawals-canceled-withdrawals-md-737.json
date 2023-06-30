@@ -1,0 +1,30 @@
+{
+  "unversionedId": "withdrawals/canceledWithdrawals",
+  "id": "withdrawals/canceledWithdrawals",
+  "title": "Estado de Retiros Cancelados",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/withdrawals/canceledWithdrawals.md",
+  "sourceDirName": "withdrawals",
+  "slug": "/withdrawals/canceledWithdrawals",
+  "permalink": "/es/docs/withdrawals/canceledWithdrawals",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/canceledWithdrawals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 5,
+    "title": "Estado de Retiros Cancelados",
+    "label": "estados_de_retiro_cancelado"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Estado de Retiro",
+    "permalink": "/es/docs/withdrawals/statusWithdrawal"
+  },
+  "next": {
+    "title": "Country Specifications",
+    "permalink": "/es/docs/category/country-specifications"
+  }
+}

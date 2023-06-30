@@ -1,0 +1,16 @@
+{
+  "title": "Deposits",
+  "description": "Know all the points you will see.",
+  "slug": "/category/deposits",
+  "permalink": "/docs/category/deposits",
+  "navigation": {
+    "previous": {
+      "title": "Withdrawal Consults",
+      "permalink": "/docs/documentation/withdrawalConsult"
+    },
+    "next": {
+      "title": "Create a new payment",
+      "permalink": "/docs/deposits/createPayment"
+    }
+  }
+}

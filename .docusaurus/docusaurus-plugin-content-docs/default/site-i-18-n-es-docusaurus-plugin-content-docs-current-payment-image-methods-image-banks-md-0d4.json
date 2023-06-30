@@ -1,0 +1,26 @@
+{
+  "unversionedId": "paymentImageMethods/imageBanks",
+  "id": "paymentImageMethods/imageBanks",
+  "title": "Imagenes Métodos de Pago",
+  "description": "Te facilitamos las imagenes de todos nuestros métodos de pago para que puedas utilizar..",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/paymentImageMethods/imageBanks.md",
+  "sourceDirName": "paymentImageMethods",
+  "slug": "/paymentImageMethods/imageBanks",
+  "permalink": "/es/docs/paymentImageMethods/imageBanks",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/paymentImageMethods/imageBanks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Te facilitamos las imagenes de todos nuestros métodos de pago para que puedas utilizar..",
+    "sidebar_position": 1,
+    "title": "Imagenes Métodos de Pago",
+    "label": "imagenes_de_bancos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Images Payment Methods",
+    "permalink": "/es/docs/category/images-payment-methods"
+  }
+}

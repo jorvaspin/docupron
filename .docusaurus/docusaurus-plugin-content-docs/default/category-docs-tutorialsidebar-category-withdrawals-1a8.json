@@ -1,0 +1,16 @@
+{
+  "title": "Withdrawals",
+  "description": "Know all the points you will see.",
+  "slug": "/category/withdrawals",
+  "permalink": "/docs/category/withdrawals",
+  "navigation": {
+    "previous": {
+      "title": "Types Payments rejected",
+      "permalink": "/docs/deposits/typesRejectPayment"
+    },
+    "next": {
+      "title": "Create a new withdrawal",
+      "permalink": "/docs/withdrawals/createWithdrawals"
+    }
+  }
+}

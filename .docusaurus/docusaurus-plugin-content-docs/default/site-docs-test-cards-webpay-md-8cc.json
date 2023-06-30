@@ -1,0 +1,30 @@
+{
+  "unversionedId": "testCards/webpay",
+  "id": "testCards/webpay",
+  "title": "Webpay",
+  "description": "Here you will know the test cards for WebPay (Chile).",
+  "source": "@site/docs/testCards/webpay.md",
+  "sourceDirName": "testCards",
+  "slug": "/testCards/webpay",
+  "permalink": "/docs/testCards/webpay",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/testCards/webpay.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Here you will know the test cards for WebPay (Chile).",
+    "sidebar_position": 1,
+    "title": "Webpay",
+    "label": "webpay"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test Cards",
+    "permalink": "/docs/category/test-cards"
+  },
+  "next": {
+    "title": "Images Payment Methods",
+    "permalink": "/docs/category/images-payment-methods"
+  }
+}

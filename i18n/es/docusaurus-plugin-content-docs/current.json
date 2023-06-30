@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Documentation": {
+    "message": "Documentation",
+    "description": "The label for category Documentation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Documentation.link.generated-index.description": {
+    "message": "Know all the points you will see.",
+    "description": "The generated-index page description for category Documentation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Deposits": {
+    "message": "Deposits",
+    "description": "The label for category Deposits in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Deposits.link.generated-index.description": {
+    "message": "Know all the points you will see.",
+    "description": "The generated-index page description for category Deposits in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Withdrawals": {
+    "message": "Withdrawals",
+    "description": "The label for category Withdrawals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Withdrawals.link.generated-index.description": {
+    "message": "Know all the points you will see.",
+    "description": "The generated-index page description for category Withdrawals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Country Specifications": {
+    "message": "Country Specifications",
+    "description": "The label for category Country Specifications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Country Specifications.link.generated-index.description": {
+    "message": "Know all the points you will see.",
+    "description": "The generated-index page description for category Country Specifications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Test Cards": {
+    "message": "Test Cards",
+    "description": "The label for category Test Cards in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Test Cards.link.generated-index.description": {
+    "message": "Know all the points you will see.",
+    "description": "The generated-index page description for category Test Cards in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Images Payment Methods": {
+    "message": "Images Payment Methods",
+    "description": "The label for category Images Payment Methods in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Images Payment Methods.link.generated-index.description": {
+    "message": "We provide you with images of all our payment methods so that you can use.",
+    "description": "The generated-index page description for category Images Payment Methods in sidebar tutorialSidebar"
+  }
+}

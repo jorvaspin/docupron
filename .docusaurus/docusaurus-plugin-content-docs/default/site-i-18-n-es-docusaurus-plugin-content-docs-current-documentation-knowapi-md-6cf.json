@@ -1,0 +1,29 @@
+{
+  "unversionedId": "documentation/knowapi",
+  "id": "documentation/knowapi",
+  "title": "Conoce Nuestra API",
+  "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/knowapi.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/knowapi",
+  "permalink": "/es/docs/documentation/knowapi",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/knowapi.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Aprende a integrar nuestros servicios, fácil y rápido.",
+    "sidebar_position": 1,
+    "title": "Conoce Nuestra API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/es/docs/category/documentation"
+  },
+  "next": {
+    "title": "Métodos de Pago",
+    "permalink": "/es/docs/documentation/paymentMethods"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "withdrawals/statusWithdrawal",
+  "id": "withdrawals/statusWithdrawal",
+  "title": "Estado de Retiro",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/withdrawals/statusWithdrawal.md",
+  "sourceDirName": "withdrawals",
+  "slug": "/withdrawals/statusWithdrawal",
+  "permalink": "/es/docs/withdrawals/statusWithdrawal",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/statusWithdrawal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 4,
+    "title": "Estado de Retiro",
+    "label": "estado_del_retiro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detalles de un Retiro",
+    "permalink": "/es/docs/withdrawals/detailsWithdrawal"
+  },
+  "next": {
+    "title": "Estado de Retiros Cancelados",
+    "permalink": "/es/docs/withdrawals/canceledWithdrawals"
+  }
+}

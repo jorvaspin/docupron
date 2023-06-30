@@ -1,0 +1,28 @@
+{
+  "unversionedId": "documentation/balance",
+  "id": "documentation/balance",
+  "title": "Balance",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/documentation/balance.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/balance",
+  "permalink": "/docs/documentation/balance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/balance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Status Site",
+    "permalink": "/docs/documentation/statusSite"
+  },
+  "next": {
+    "title": "Previous day transactions",
+    "permalink": "/docs/documentation/previousDay"
+  }
+}

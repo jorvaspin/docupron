@@ -1,0 +1,16 @@
+{
+  "title": "Deposits",
+  "description": "Know all the points you will see.",
+  "slug": "/category/deposits",
+  "permalink": "/es/docs/category/deposits",
+  "navigation": {
+    "previous": {
+      "title": "Consulta de Retiros",
+      "permalink": "/es/docs/documentation/withdrawalConsult"
+    },
+    "next": {
+      "title": "Como Crear un Pago",
+      "permalink": "/es/docs/deposits/createPayment"
+    }
+  }
+}

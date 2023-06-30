@@ -1,0 +1,30 @@
+{
+  "unversionedId": "documentation/paymentConsult",
+  "id": "documentation/paymentConsult",
+  "title": "Consulta de Pagos",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/documentation/paymentConsult.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/paymentConsult",
+  "permalink": "/es/docs/documentation/paymentConsult",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/paymentConsult.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 8,
+    "title": "Consulta de Pagos",
+    "label": "consulta_pagos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transacciones Día Anterior",
+    "permalink": "/es/docs/documentation/previousDay"
+  },
+  "next": {
+    "title": "Consulta de Retiros",
+    "permalink": "/es/docs/documentation/withdrawalConsult"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "/es/blog-365": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "8fd5e00a"
+  },
+  "/es/blog/archive-e43": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "archive": "95c68178"
+  },
+  "/es/blog/first-blog-post-604": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/es/blog/long-blog-post-c63": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/es/blog/mdx-blog-post-b6a": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/es/blog/tags-56b": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "tags": "8df6de9b"
+  },
+  "/es/blog/tags/docusaurus-b8b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "56d67b74",
+    "listMetadata": "394de314"
+  },
+  "/es/blog/tags/facebook-028": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "11b7440d",
+    "listMetadata": "8be7f16b"
+  },
+  "/es/blog/tags/hello-017": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "837dbda6",
+    "listMetadata": "3f14958b"
+  },
+  "/es/blog/tags/hola-41f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "2cfd51eb",
+    "listMetadata": "12ef758d"
+  },
+  "/es/blog/welcome-346": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "51003815"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/es/markdown-page-9b0": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "0739f27c"
+    },
+    "content": "393be207"
+  },
+  "/es/docs-b94": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "569726d0"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/es/docs/category/country-specifications-136": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "86d25810"
+  },
+  "/es/docs/category/deposits-94e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "21399392"
+  },
+  "/es/docs/category/documentation-9a0": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "106d9c40"
+  },
+  "/es/docs/category/images-payment-methods-9ba": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "7385870c"
+  },
+  "/es/docs/category/test-cards-348": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "2a3f875e"
+  },
+  "/es/docs/category/withdrawals-e67": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "bdd3e2b8"
+  },
+  "/es/docs/countrieSpecifications/paises_y_monedas-a28": {
+    "__comp": "17896441",
+    "content": "fa8e9369"
+  },
+  "/es/docs/deposits/confirmationPayment-b47": {
+    "__comp": "17896441",
+    "content": "819ad447"
+  },
+  "/es/docs/deposits/createPayment-e9a": {
+    "__comp": "17896441",
+    "content": "6b5a6b17"
+  },
+  "/es/docs/deposits/detailsPayment-7ec": {
+    "__comp": "17896441",
+    "content": "176e2e53"
+  },
+  "/es/docs/deposits/typesOfStatus-a1f": {
+    "__comp": "17896441",
+    "content": "ee890abe"
+  },
+  "/es/docs/deposits/typesRejectPayment-45e": {
+    "__comp": "17896441",
+    "content": "c716e544"
+  },
+  "/es/docs/documentation/balance-7da": {
+    "__comp": "17896441",
+    "content": "e5da4144"
+  },
+  "/es/docs/documentation/knowapi-ee7": {
+    "__comp": "17896441",
+    "content": "6cf73356"
+  },
+  "/es/docs/documentation/paymentConsult-351": {
+    "__comp": "17896441",
+    "content": "c5b08865"
+  },
+  "/es/docs/documentation/paymentMethods-71a": {
+    "__comp": "17896441",
+    "content": "5ccd04c6"
+  },
+  "/es/docs/documentation/previousDay-d5b": {
+    "__comp": "17896441",
+    "content": "97e77437"
+  },
+  "/es/docs/documentation/statusSite-741": {
+    "__comp": "17896441",
+    "content": "6b52efd8"
+  },
+  "/es/docs/documentation/withdrawalConsult-37e": {
+    "__comp": "17896441",
+    "content": "c47eaead"
+  },
+  "/es/docs/intro-98b": {
+    "__comp": "17896441",
+    "content": "359fb69f"
+  },
+  "/es/docs/paymentImageMethods/imageBanks-f21": {
+    "__comp": "17896441",
+    "content": "0d4a4c7b"
+  },
+  "/es/docs/testCards/webpay-0cd": {
+    "__comp": "17896441",
+    "content": "b0589f22"
+  },
+  "/es/docs/withdrawals/canceledWithdrawals-bd8": {
+    "__comp": "17896441",
+    "content": "737c9774"
+  },
+  "/es/docs/withdrawals/confirmationWithdrawal-249": {
+    "__comp": "17896441",
+    "content": "bbc4f5c5"
+  },
+  "/es/docs/withdrawals/createWithdrawals-5eb": {
+    "__comp": "17896441",
+    "content": "d8045e3c"
+  },
+  "/es/docs/withdrawals/detailsWithdrawal-988": {
+    "__comp": "17896441",
+    "content": "5c6344af"
+  },
+  "/es/docs/withdrawals/statusWithdrawal-2f3": {
+    "__comp": "17896441",
+    "content": "399116c9"
+  },
+  "/es/-488": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "0739f27c"
+    },
+    "config": "5e9f5e1a"
+  }
+}

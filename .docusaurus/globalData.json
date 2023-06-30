@@ -1,0 +1,163 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/es/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/es/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "countrieSpecifications/paises_y_monedas",
+              "path": "/es/docs/countrieSpecifications/paises_y_monedas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deposits/confirmationPayment",
+              "path": "/es/docs/deposits/confirmationPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deposits/createPayment",
+              "path": "/es/docs/deposits/createPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deposits/detailsPayment",
+              "path": "/es/docs/deposits/detailsPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deposits/typesOfStatus",
+              "path": "/es/docs/deposits/typesOfStatus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deposits/typesRejectPayment",
+              "path": "/es/docs/deposits/typesRejectPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/balance",
+              "path": "/es/docs/documentation/balance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/knowapi",
+              "path": "/es/docs/documentation/knowapi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/paymentConsult",
+              "path": "/es/docs/documentation/paymentConsult",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/paymentMethods",
+              "path": "/es/docs/documentation/paymentMethods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/previousDay",
+              "path": "/es/docs/documentation/previousDay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/statusSite",
+              "path": "/es/docs/documentation/statusSite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentation/withdrawalConsult",
+              "path": "/es/docs/documentation/withdrawalConsult",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/es/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "paymentImageMethods/imageBanks",
+              "path": "/es/docs/paymentImageMethods/imageBanks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testCards/webpay",
+              "path": "/es/docs/testCards/webpay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "withdrawals/canceledWithdrawals",
+              "path": "/es/docs/withdrawals/canceledWithdrawals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "withdrawals/confirmationWithdrawal",
+              "path": "/es/docs/withdrawals/confirmationWithdrawal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "withdrawals/createWithdrawals",
+              "path": "/es/docs/withdrawals/createWithdrawals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "withdrawals/detailsWithdrawal",
+              "path": "/es/docs/withdrawals/detailsWithdrawal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "withdrawals/statusWithdrawal",
+              "path": "/es/docs/withdrawals/statusWithdrawal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/documentation",
+              "path": "/es/docs/category/documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/deposits",
+              "path": "/es/docs/category/deposits",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/withdrawals",
+              "path": "/es/docs/category/withdrawals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/country-specifications",
+              "path": "/es/docs/category/country-specifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/test-cards",
+              "path": "/es/docs/category/test-cards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/images-payment-methods",
+              "path": "/es/docs/category/images-payment-methods",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/es/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

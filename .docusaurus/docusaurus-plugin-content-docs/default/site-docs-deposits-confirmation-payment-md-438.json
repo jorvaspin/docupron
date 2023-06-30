@@ -1,0 +1,30 @@
+{
+  "unversionedId": "deposits/confirmationPayment",
+  "id": "deposits/confirmationPayment",
+  "title": "Payment confirmation",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/deposits/confirmationPayment.md",
+  "sourceDirName": "deposits",
+  "slug": "/deposits/confirmationPayment",
+  "permalink": "/docs/deposits/confirmationPayment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/confirmationPayment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 2,
+    "title": "Payment confirmation",
+    "label": "confirmacion_de_un_pago"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a new payment",
+    "permalink": "/docs/deposits/createPayment"
+  },
+  "next": {
+    "title": "Payment details",
+    "permalink": "/docs/deposits/detailsPayment"
+  }
+}

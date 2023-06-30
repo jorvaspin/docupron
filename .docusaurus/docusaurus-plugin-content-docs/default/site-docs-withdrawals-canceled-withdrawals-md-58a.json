@@ -1,0 +1,30 @@
+{
+  "unversionedId": "withdrawals/canceledWithdrawals",
+  "id": "withdrawals/canceledWithdrawals",
+  "title": "Canceled Withdrawals",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/withdrawals/canceledWithdrawals.md",
+  "sourceDirName": "withdrawals",
+  "slug": "/withdrawals/canceledWithdrawals",
+  "permalink": "/docs/withdrawals/canceledWithdrawals",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/withdrawals/canceledWithdrawals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 5,
+    "title": "Canceled Withdrawals",
+    "label": "estados_de_retiro_cancelado"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Withdrawal status",
+    "permalink": "/docs/withdrawals/statusWithdrawal"
+  },
+  "next": {
+    "title": "Country Specifications",
+    "permalink": "/docs/category/country-specifications"
+  }
+}

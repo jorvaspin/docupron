@@ -1,0 +1,30 @@
+{
+  "unversionedId": "deposits/createPayment",
+  "id": "deposits/createPayment",
+  "title": "Como Crear un Pago",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/deposits/createPayment.md",
+  "sourceDirName": "deposits",
+  "slug": "/deposits/createPayment",
+  "permalink": "/es/docs/deposits/createPayment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deposits/createPayment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 1,
+    "title": "Como Crear un Pago",
+    "label": "como_crear_un_pago"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deposits",
+    "permalink": "/es/docs/category/deposits"
+  },
+  "next": {
+    "title": "Confirmación de un Pago",
+    "permalink": "/es/docs/deposits/confirmationPayment"
+  }
+}

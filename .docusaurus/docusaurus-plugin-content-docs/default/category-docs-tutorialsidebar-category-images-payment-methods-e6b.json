@@ -1,0 +1,16 @@
+{
+  "title": "Images Payment Methods",
+  "description": "We provide you with images of all our payment methods so that you can use.",
+  "slug": "/category/images-payment-methods",
+  "permalink": "/docs/category/images-payment-methods",
+  "navigation": {
+    "previous": {
+      "title": "Webpay",
+      "permalink": "/docs/testCards/webpay"
+    },
+    "next": {
+      "title": "images of banks",
+      "permalink": "/docs/paymentImageMethods/imageBanks"
+    }
+  }
+}

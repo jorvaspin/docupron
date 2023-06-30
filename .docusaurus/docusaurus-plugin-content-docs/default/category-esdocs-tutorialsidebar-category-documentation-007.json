@@ -1,0 +1,16 @@
+{
+  "title": "Documentation",
+  "description": "Know all the points you will see.",
+  "slug": "/category/documentation",
+  "permalink": "/es/docs/category/documentation",
+  "navigation": {
+    "previous": {
+      "title": "Bienvenido",
+      "permalink": "/es/docs/intro"
+    },
+    "next": {
+      "title": "Conoce Nuestra API",
+      "permalink": "/es/docs/documentation/knowapi"
+    }
+  }
+}

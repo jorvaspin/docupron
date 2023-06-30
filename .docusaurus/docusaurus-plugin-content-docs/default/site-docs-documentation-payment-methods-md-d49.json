@@ -1,0 +1,30 @@
+{
+  "unversionedId": "documentation/paymentMethods",
+  "id": "documentation/paymentMethods",
+  "title": "Methods of payment",
+  "description": "Learn to integrate our services, easy and fast.",
+  "source": "@site/docs/documentation/paymentMethods.md",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/paymentMethods",
+  "permalink": "/docs/documentation/paymentMethods",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation/paymentMethods.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Learn to integrate our services, easy and fast.",
+    "sidebar_position": 2,
+    "title": "Methods of payment",
+    "label": "metodos_pago"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Know our API",
+    "permalink": "/docs/documentation/knowapi"
+  },
+  "next": {
+    "title": "Status Site",
+    "permalink": "/docs/documentation/statusSite"
+  }
+}
